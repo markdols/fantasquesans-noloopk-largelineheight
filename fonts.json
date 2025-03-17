@@ -1,5 +1,8 @@
 {
-        "fonts": {
+        "spec": 1,
+        "name": "Commit Mono",
+        "previewText": "Commit Mono",
+        "main": {
                 "ABCGintoNord-ExtraBold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
                 "ggsans-Bold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
                 "ggsans-BoldItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
@@ -19,5 +22,4 @@
                 "NotoSans-Semibold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
                 "SourceCodePro-Semibold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf"
         }
-        "spec": 2
 }
