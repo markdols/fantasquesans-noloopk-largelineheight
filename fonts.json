@@ -1,20 +1,23 @@
 {
-        "ABCGintoNord-ExtraBold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "ggsans-Bold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "ggsans-BoldItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "ggsans-ExtraBold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "ggsans-ExtraBoldItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "ggsans-Medium": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "ggsans-MediumItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "ggsans-Normal": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "ggsans-NormalItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "ggsans-Semibold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "ggsans-SemiboldItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "NotoSans-Bold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "NotoSans-ExtraBold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "NotoSans-Medium": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "NotoSans-Normal": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "NotoSans-NormalItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "NotoSans-Semibold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
-        "SourceCodePro-Semibold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf"
+        "fonts": {
+                "ABCGintoNord-ExtraBold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "ggsans-Bold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "ggsans-BoldItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "ggsans-ExtraBold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "ggsans-ExtraBoldItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "ggsans-Medium": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "ggsans-MediumItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "ggsans-Normal": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "ggsans-NormalItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "ggsans-Semibold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "ggsans-SemiboldItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "NotoSans-Bold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "NotoSans-ExtraBold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "NotoSans-Medium": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "NotoSans-Normal": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "NotoSans-NormalItalic": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "NotoSans-Semibold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf",
+                "SourceCodePro-Semibold": "https://github.com/eigilnikolajsen/commit-mono/raw/main/src/fonts/fontlab/CommitMonoV143-VF.ttf"
+        }
+        "spec": 2
 }
